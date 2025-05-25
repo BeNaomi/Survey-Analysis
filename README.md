@@ -1,1 +1,1 @@
-Simple code for OLS regression
+Simple code for ANOVA and OLS with moderators
